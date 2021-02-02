@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://slomomo.com/</loc>
+    </url>
+    <url>
+        <loc>http://slomomo.com/about/</loc>
+    </url>
+    <url>
+        <loc>http://slomomo.com/posts/</loc>
+    </url>
+    <url>
+        <loc>http://slomomo.com/posts/good-first-post/</loc>
+        <lastmod>2019-08-23</lastmod>
+    </url>
+    <url>
+        <loc>http://slomomo.com/tags/</loc>
+    </url>
+    <url>
+        <loc>http://slomomo.com/tags/blog/</loc>
+    </url>
+    <url>
+        <loc>http://slomomo.com/tags/first/</loc>
+    </url>
+    <url>
+        <loc>http://slomomo.com/tags/hello/</loc>
+    </url>
+</urlset>

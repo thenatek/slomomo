@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://slomomo.com/sitemap.xml
+Sitemap: https://slomomo.com/sitemap.xml

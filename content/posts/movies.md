@@ -18,6 +18,16 @@ Even when you search for Movie Bot today many other examples show up. I have no 
 
 I actually have no idea how to turn off these notifiations. They have been pinging me about once a week for the past 4 years. I find it hilarious every time. 
 
+Anyways. When a User starts a conversation with this Bot, the bot asks what genre of movie would they like to watch. Whether they say Comedy, Horror, Romantic; the response is hardcoded every time. 
 
-<img src="img\moviebot.PNG">
+User: Horror.
+<br/>
+MovieBot: Let's find some laughs! 
+
+Given that, there is a list of movies and images that will load. The two movies I loaded into the proof of concept? Groundhog Day and How to Train your Dragon. What shows to the user every time? You guess it. 
+
+<br/>
+<br/>
+
+<img src="https://drive.google.com/uc?export=view&id=1cLCls6D0GYMPwLXOgokC4SBfjTEJgDHm">
 

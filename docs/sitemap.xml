@@ -14,8 +14,16 @@
         <lastmod>2021-02-01</lastmod>
     </url>
     <url>
+        <loc>https://slomomo.com/posts/colincoffee/</loc>
+        <lastmod>2017-08-04</lastmod>
+    </url>
+    <url>
         <loc>https://slomomo.com/posts/groundhogday/</loc>
         <lastmod>2021-02-02</lastmod>
+    </url>
+    <url>
+        <loc>https://slomomo.com/posts/jetmoto/</loc>
+        <lastmod>2017-08-03</lastmod>
     </url>
     <url>
         <loc>https://slomomo.com/posts/wastingtime/</loc>
@@ -28,9 +36,15 @@
         <loc>https://slomomo.com/tags/birthday/</loc>
     </url>
     <url>
+        <loc>https://slomomo.com/tags/coffee/</loc>
+    </url>
+    <url>
         <loc>https://slomomo.com/tags/movies/</loc>
     </url>
     <url>
         <loc>https://slomomo.com/tags/time/</loc>
+    </url>
+    <url>
+        <loc>https://slomomo.com/tags/videogame/</loc>
     </url>
 </urlset>
